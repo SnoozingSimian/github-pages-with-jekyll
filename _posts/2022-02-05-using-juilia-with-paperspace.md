@@ -1,6 +1,7 @@
 ---
-title: "Getting Julia to Run on Gradient Notebooks"
+title: "Getting-Julia-to-Run-on-Gradient-Notebooks"
 date: 2022-02-05
+published: true
 ---
 
 This will be a quick beginner tutorial on how to use julia with Paperspace notebooks.
